@@ -1,0 +1,1 @@
+/Users/marco.chan/Library/Application Support/MetaTrader 5/BuiltinBottles/default/drive_c/Program Files/MetaTrader 5/MQL5/Experts/Advisors/ExpertMACD.mq5
