@@ -1,11 +1,13 @@
 # What is this?
 
 A repository which records my learning progress of creating my own [Expert Advisors](https://www.mql5.com/en/articles/mt5/expert_advisors)(EAs).\
-Feel free to check it out my work.\
-.\
-├── [Custom](https://github.com/maruk0chan/metatrade5-ea/tree/master/Custom) << all my EA templates\
-├── .gitignore\
+Feel free to check it out my work in [Custom](https://github.com/maruk0chan/metatrade5-ea/tree/master/Custom).
+```plain
+.
+├── Custom << all my EA templates
+├── .gitignore
 └── README.md
+```
 
 # Are you interested in trading bot?
 
