@@ -1,0 +1,26 @@
+{
+  "workbench.colorTheme": "Monokai",
+  "C_Cpp.default.forcedInclude": [
+    "~/.vscode/extensions/l-i-v.mql-tools-2.0.2/data/mql5_en.mqh"
+  ],
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true,
+    "**/*.ex4": true,
+    "**/*.ex5": true,
+    "Files": true,
+    "Images": true,
+    "Libraries": true,
+    "Indicators": true,
+    "Logs": true,
+    "Profiles": true,
+    "Scripts": true,
+    "Services": true,
+    "Shared Projects": true,
+  },
+  "explorerExclude.backup": {}
+}
