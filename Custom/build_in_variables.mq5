@@ -9,7 +9,7 @@
 //--- day of week
 enum dayOfWeek
 {
-  S = 0,  // Sundayfoobar
+  S = 0,  // Sunday
   M = 1,  // Monday
   T = 2,  // Tuesday
   W = 3,  // Wednesday
