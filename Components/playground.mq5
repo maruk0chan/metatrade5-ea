@@ -6,45 +6,14 @@
 #property copyright "Copyright 2023, MetaQuotes Ltd."
 #property link      "https://www.mql5.com"
 #property version   "1.00"
-//--- day of week
-enum dayOfWeek 
+
+void OnStart()
   {
-   S=0,     // Sundayfoobar
-   M=1,     // Monday
-   T=2,     // Tuesday
-   W=3,     // Wednesday
-   Th=4,    // Thursday
-   Fr=5,    // Friday
-   St=6,    // Saturday
-  };
-//--- input parameters
-input dayOfWeek swapday=W;
-input int maPeriod=20;
-input ENUM_MA_METHOD maMethod=MODE_SMA;
-//+------------------------------------------------------------------+
-//| Expert initialization function                                   |
-//+------------------------------------------------------------------+
-int OnInit()
-  {
-//---
-   Comment(_Symbol);
-//---
-   return(INIT_SUCCEEDED);
+    string array[5]={"1","2","3","4","5"};
+
+    Print("array[0]=",array[0]);
+    Print("array[0]=",array[1]);
+    Print("array[0]=",array[2]);
+    Print("array[0]=",array[3]);
+    Print("array[0]=",array[4]);
   }
-//+------------------------------------------------------------------+
-//| Expert deinitialization function                                 |
-//+------------------------------------------------------------------+
-void OnDeinit(const int reason)
-  {
-//---
-   
-  }
-//+------------------------------------------------------------------+
-//| Expert tick function                                             |
-//+------------------------------------------------------------------+
-void OnTick()
-  {
-//---
-   
-  }
-//+------------------------------------------------------------------+
