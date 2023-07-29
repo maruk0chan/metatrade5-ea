@@ -4,6 +4,7 @@ A repository which records my learning progress of creating my own [Expert Advis
 Feel free to check it out my work.\
 .\
 ├── [Custom](https://github.com/maruk0chan/metatrade5-ea/tree/master/Custom) << all my EA templates\
+├── .gitignore\
 └── README.md
 
 # Are you interested in trading bot?
