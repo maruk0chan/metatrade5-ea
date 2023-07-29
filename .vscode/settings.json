@@ -1,0 +1,15 @@
+{
+  "workbench.colorTheme": "Monokai",
+  "explorerExclude.backup": {},
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true,
+    "Experts/Components/*.ex5": true,
+    "Experts/Components/*.lnk": true
+  },
+  "C_Cpp.errorSquiggles": "disabled"
+}

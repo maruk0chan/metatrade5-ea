@@ -1,4 +1,3 @@
-*
-
-!.gitignore
-!**/*.mq5
+Advisors/
+Examples/
+*.ex5
